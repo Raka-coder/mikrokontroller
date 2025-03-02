@@ -21,7 +21,7 @@ The code to make the LED blink is written in C++ and uploaded to the WEMOS D1 MI
 ### Code
 
 ```cpp
-// simple-blink-led/led/led.ino
+// simple-blink-led/led.ino
 // Mikrokontroller : WEMOS D1 MINI
 // Simple Blink LED
 
